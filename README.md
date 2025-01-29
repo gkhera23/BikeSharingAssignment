@@ -24,12 +24,11 @@ day.csv is being used as the DataSet.
 Important predictor variables are as follows:
 1) yr
 2) season_spring
-3) July month
-4) season winter
-5) September month
-6) Sunday
-7) moderate weather
-8) Temp
+3) mnth_dec
+4) mnth_nov
+5) mnth_sep
+6) mist weather
+7) rain weather
 
 Company should keep in mind the above predictor variables for bike rental strategy.
 
